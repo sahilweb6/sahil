@@ -1,0 +1,200 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media ( max-width:1920px) and (min-width:1500px)
+{
+.social{ margin:45px 105px;}
+.twit{ margin:45px 105px;}
+.condition{ margin:90px 0 0 0}
+.cbp-spmenu-vertical a{padding: 13px 0;}
+.slide-out-div{ left:38% !important}
+.left_map{  height:900px }
+.right_map{ height:900px}
+.mini_div{ margin-top:400px}
+.about_head_sml{ margin-top:150px;}
+.rooms_service{ margin-top:220px}
+.rooms_service li{ margin-top:30px}
+	
+}
+@media (max-width:1400px) and (min-width:1025px){
+	.left_map{  height:800px }
+.right_map{ height:800px}
+.mini_div{ margin-top:300px;}
+.adress_r{ font-size:13px}
+	
+	}
+@media ( max-width:1024px) and (min-width:800px)
+{
+	.hide_desktop{ display:none;}
+	.slide-out-div { left:28% !important}
+	.left_search_engine{ float:left; width:100%}
+	.search_result{ width:100%; float:left; margin-top:10px;}
+	.left_search_engine{   height: 534px;}
+	.cong {
+    margin-top: -9px;
+}
+.social{ margin:32px 105px;}
+.twit{ margin:32px 105px;}
+.condition{ margin:69px 0 0 0}
+.book_brn{ width:40%}
+.ac-custom label{ padding:0 0 0 10% !important; }
+.adress_r{ font-size:13px}
+.mini_div{ margin-top:300px;}
+.about_content{ font-size:14px}
+.about_left{width:50% }
+.about_right{width:50% }
+.atb{ float:left !important; width:100% !important}
+.ntn{ float:right !important;width:100% !important; height:auto !important}
+.maj{ margin-top:43px;}
+.about_content { text-align:center}
+.kend{ float:left; width:100% !important; height:auto !important}
+.kend img{  width:100% !important; height:auto !important}
+.jjj{ float:left; width:100% !important}
+.about_head{ margin-top:20px;}
+.about_content{ margin-bottom:20px;}
+	}
+	
+/**************Slide out**************/
+@media ( max-width:799px) and (min-width:768px)
+{
+.slide-out-div { left:20% !important}
+.left_search_engine{ float:left; width:100%}
+	.search_result{ width:100%; float:left; margin-top:10px;}
+	.left_search_engine{   height: 534px;}
+	.cong {
+    margin-top: -9px;
+}
+.social{ margin:45px 105px;}
+.twit{ margin:45px 105px;}
+.condition{ margin:197px 0 0 0}
+.cbp-spmenu-vertical a{padding: 13px 0;}
+.checkin_details{ float:left; width:100%;}
+.check_more{ float:left; width:100%; margin-left:0px; margin-top:20px;}
+.book_brn{ width:60%}
+.ac-custom label{ padding:0 0 0 10% !important; }
+.adress_r{ width:100%; margin-top:5px}
+.left_map{  height:1024px }
+.right_map{ height:1024px}
+.adress_r{ font-size:13px}
+.main_head_cont{ font-size:30px;}
+.small_diva{ font-size:22px}
+.mini_div{ margin-top:400px;}
+.about_content{ font-size:14px}
+.atb{ float:left !important; width:100% !important}
+.ntn{ float:right !important;width:100% !important}
+.maj{ margin-top:20px;}
+.rooms_service li{ width:33%} height:auto !important
+.about_content { text-align:center}
+.kend{ float:left; width:100% !important; height:auto !important}
+.kend img{  width:100% !important; height:auto !important}
+.jjj{ float:left; width:100% !important}
+.about_head{ margin-top:20px;}
+.about_content{ margin-bottom:20px;}
+
+}
+/************slide_out**************/	
+	@media ( max-width:767px) and (min-width:451px)
+{
+	.hide_desktop{ display:none;}
+	.slide-out-div {
+          
+          background-image:none !important; background-color:#7dab0e !important; width:100%; height:164px; left:0% !important;
+         
+      }  
+	  .top_log{ width:100%; border-radius:0px !important; height:154px}
+	  .handle{left:30% }
+	  .left_search_engine{ float:left; width:100%}
+	.search_result{ width:100%; float:left; margin-top:10px;}
+		.left_search_engine{   height: 575px;}
+	.cong {
+    margin-top: -9px;
+}
+  .handle{left:0px; background-image:none; text-indent:0px !important; background-color:#779324; text-align:center; color:#fff; width:100%;font-size: 28px;
+padding-top: 11px;font-family: 'Lato-Lig'; }
+.handle:hover{ color:#fff}
+.exc{margin-top: 29px;}
+.left_floatin{ width:100%; float:left;}
+.rite_floatin{ margin-left:0px; width:100%; float:left; margin-top:10px;}
+.checkin_details{ float:left; width:100%;}
+.check_more{ float:left; width:100%; margin-left:0px; margin-top:20px;}
+.book_brn{ width:60%}
+.ac-custom label{ padding:0 0 0 10% !important; }
+.breadcrumb_top{ padding-top:24%}
+.left_map{ width:100%; height:300px;}
+.right_map{width:100%; height:550px; box-shadow:none; -moz-box-shadow:none; -webkit-box-shadow:none}
+.mini_div{ margin-top:20px;}
+.about_left{ width:100%}
+.about_right{ width:100%}
+.about_head{ margin-top:30px;}
+.about_content{ margin-bottom:20px;}
+.info_head{ font-size:20px; margin-top:0px;}
+.info_rumur{ margin-top:0px; font-size:14px}
+.info_line{ height:30px; }
+.gal_btn{ font-size:12px; margin-top:0px}
+.single_room_image_info{ padding:10px;}
+.rooms_service li{ width:100%}
+.kend img{ width:100%; height:auto !important}
+.about_content { text-align:center}
+.about_left{ height:100%}
+
+}
+
+	
+	@media ( max-width:450px) and (min-width:300px)
+{
+	.hide_desktop{ display:none;}
+	.slide-out-div {
+          
+          background-image:none !important; background-color:#7dab0e !important; width:100%; height:164px; left:0% !important;
+         
+      }  
+	  .top_log{ width:100%; border-radius:0px !important; height:154px}
+	  .handle{left:0px; background-image:none; text-indent:0px !important; background-color:#779324; text-align:center; color:#fff; width:100%;font-size: 28px;
+padding-top: 11px; }
+.handle:hover{ color:#fff}
+	  .left_search_engine{ float:left; width:100%}
+	.search_result{ width:100%; float:left; margin-top:10px;}
+		.left_search_engine{   height: 534px;}
+	.cong {
+    margin-top: -9px;
+}
+.details_check{ font-size:14px}
+.exc{margin-top: 29px;}
+.left_floatin{ width:100%; float:left;}
+.rite_floatin{ margin-left:0px; width:100%; float:left; margin-top:10px;}
+.checkin_details{ float:left; width:100%;}
+.check_more{ float:left; width:100%; margin-left:0px; margin-top:20px;}
+.book_brn{ width:100%}
+.ac-custom label{ padding:0 0 0 15% !important; }
+.ac-custom label{ padding:0 0 0 10% !important; }
+.breadcrumb_top{ padding-top:30%}
+.bread_crumb{ padding-left:12%}
+.heading_top1{font-size:24px}
+.nws{left:0px !important;}
+.left_map{ width:100%; height:300px;}
+.right_map{width:100%; height:650px;box-shadow:none; -moz-box-shadow:none; -webkit-box-shadow:none}
+.mini_div{ margin-top:20px;}
+.about_left{ width:100%}
+.about_right{ width:100%}
+.about_head{ margin-top:30px;}
+.about_content{ margin-bottom:20px;}
+.info_head{ font-size:20px; margin-top:0px;}
+.info_rumur{ margin-top:0px; font-size:12px}
+.info_line{ height:30px; }
+.gal_btn{ font-size:12px; margin-top:10px; float:left; margin-left:10%}
+.single_room_image_info{ padding:10px;}
+.rooms_service li{ width:100%}
+.kend img{ width:100%; height:auto !important}
+.about_left{ height:100%}
+.about_content{ text-align:center}
+.adress_r{ font-size:13px;}
+}
+@media ( max-width:810px) and ( min-width:790px){
+.left_map{  height:1280px !important }
+.right_map{ height:1280px !important}
+.adress_r{ font-size:13px}
+.main_head_cont{ font-size:30px;}
+.small_diva{ font-size:22px}
+.adress_r{ width:100%; margin-top:5px}
+.mini_div{ margin-top:700px;}	
+}
